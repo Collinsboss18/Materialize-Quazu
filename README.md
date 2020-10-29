@@ -1,2 +1,2 @@
 ## Materialize-Quazu
-Built with Materialize-Css
+A frontend applicatio built with Materialize-Css
